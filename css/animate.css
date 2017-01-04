@@ -1,0 +1,22 @@
+.fadeUp{
+	animation: fadeUp .6s forwards;
+}
+@keyframes fadeUp{
+	0%{
+		
+	}
+	100%{
+		transform: translateY(-50%);
+	}
+}
+.fadeDown{
+	animation: fadeDown .6s forwards;
+}
+@keyframes fadeDown{
+	0%{
+		transform: translateY(-50%);
+	}
+	100%{
+		transform: translateY(0);
+	}
+}

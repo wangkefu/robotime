@@ -1,0 +1,114 @@
+#exTop{
+	width: 100%;
+	/*height: 647px;*/
+	background: #e4e4e4;
+	margin-top: 54px;
+	position: relative;
+	overflow: hidden;
+}
+#exTop img{
+	width: 59.6875%;
+}
+.spans{
+	position: absolute;
+	display: block;
+	width: 17.70833%;
+	top: 79px;
+	left: 64.895833%;
+}
+.exTit{
+	font-weight: bold;
+	font-size: 26px;
+}
+.exIntro{
+	font-size: 14px;
+	display: block;
+	margin-top: 35px;
+	line-height: 22px;
+}
+/*#ex_imgs{
+	width: 962px;
+	margin: 34px auto;
+}*/
+.ex_imgs{
+	width: 962px;
+	margin: 34px auto;
+	overflow: hidden;
+}
+
+
+.jieshao{
+	height: 61px;
+	width: 962px;
+	margin: 0 auto;
+	border-top: 2px solid #e4e4e4;
+	border-bottom: 2px solid #e4e4e4;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	line-height: 61px;
+}
+.jieshao2{
+	width: 962px;
+	margin: 0 auto;
+	border-top: 2px solid #e4e4e4;
+	border-bottom: 2px solid #e4e4e4;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	line-height: 61px;
+	height: 91px;
+	line-height: 22px;
+	padding-top: 20px;
+}
+.img1{
+	float: left;
+}
+.img2{
+	float: right;
+}
+.img3{
+	float: left;
+}
+.img4{
+	float: right;
+}
+.img5{
+	float: left;
+}
+.img6{
+	float: right;
+}
+.ex2_img2{
+	margin-left: 29px;
+}
+#ex_imgs .ex2_div{
+	height: 91px;
+	line-height: 22px;
+	padding-top: 20px;
+}
+.ex3_img2{
+	margin-left: 30px;
+}
+.ex3_img4{
+	margin-left: 29px;
+}
+.ex3_img6{
+	margin-left: 29px;
+}
+#ex_imgs .ex4_div{
+	height: 91px;
+	line-height: 22px;
+	padding-top: 20px;
+}
+.ex4_img2{
+	margin-left: 32px;
+}
+.ex5_img1{
+	width: 100%;
+}
+.ex5_img2{
+	width: 100%;
+}
+#ex_imgs .ex5_div{
+	height: 61px;
+	width: 90%;
+}
